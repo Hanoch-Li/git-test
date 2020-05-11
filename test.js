@@ -10,3 +10,5 @@ console.log(currentTime);
 /* 开发一个新的功能 end */
 
 //解决冲突
+
+//此处修复一个bug
